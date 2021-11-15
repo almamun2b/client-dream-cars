@@ -1,0 +1,72 @@
+[
+  {
+    "_id": 1,
+    "name": "2021 Hyundai Kona",
+    "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/2021-hyundai-kona-mmp-1-1596819352.jpg?crop=0.873xw:0.738xh;0.00801xw,0.204xh&resize=1200:*",
+    "description": "Even three model years into its initial run, the 2021 Hyundai Kona continues to turn heads with its bold styling and earned an Editors' Choice award. But this SUV is more than just a style item, as it offers crisp handling and a gutsy optional turbocharged four-cylinder engine. If you can't afford to upgrade to the 175-hp turbo powertrain, the base nonturbo model is slower but still plenty fun to drive.",
+    "price": "21685"
+  },
+  {
+    "_id": 2,
+    "name": "2021 Kia Soul",
+    "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/2021-kia-soul-mmp-1-1593638236.jpg?crop=0.793xw:0.668xh;0.0801xw,0.300xh&resize=1200:*",
+    "description": "The 2021 Kia Soul puts the in funky and functional with its distinctly boxy design and remarkably roomy cabin. The subcompact SUV has corporate competition from the new Kia Seltos and the Hyundai Kona, but the Soul is significantly cheaper. Kia offers buyers the choice between two gas-powered four-cylinders, one of which is a powerful 201-hp turbocharged engine. Alternatively, you can wait for the forthcoming electric model (reviewed separately)",
+    "price": "18,765"
+  },
+  {
+    "_id": 3,
+    "name": "2021 BMW X2",
+    "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/2021-bmw-x2-mmp-1-1601402776.jpg?crop=1.00xw:0.849xh;0,0.151xh&resize=1200:*",
+    "description": "If the 2021 BMW X2 looks like a chopped-roof version of the X1 SUV, that's because it is—but this little crossover dials in a bit more aggression to the driving dynamics, which earned it an Editors' Choice award. The standard engine is the same 228-hp turbocharged four-cylinder that's in the X1, but the X2's slightly sharper handling makes it more fun to wield on a twisty road. Unlike on the X1, BMW offers the X2 with a 302-hp four-pot, which turns it into a fire-breathing performance machine. ",
+    "price": "37,945"
+  },
+  {
+    "_id": 4,
+    "name": "2021 BMW X1",
+    "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/2021-bmw-x1-mmp-1-1601400648.png?crop=0.929xw:0.924xh;0.0208xw,0.0765xh&resize=1200:*",
+    "description": "Under the 2021 BMW X1's somewhat anonymous-looking outer skin lies a playful chassis that give this small SUV a winning character, which earned it an Editors' Choice award. All X1s come with the a 228-hp turbocharged four-cylinder engine, which provides considerable pep and reasonable fuel economy. On a twisty road, the ute comes alive and delivers much of the same crisp handling and ride refinement that the BMW brand is known for. Inside",
+    "price": "36,395"
+  },
+  {
+    "_id": 5,
+    "name": "2021 Mazda CX-30",
+    "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/2021-mazda-cx-30-2p5-turbo-112-1612840730.jpg?crop=0.776xw:0.654xh;0.127xw,0.257xh&resize=1200:*",
+    "description": "Although the Mazda CX-30 is close in size to the CX-3 SUV, it's a more modern—and hugely desirable—offering, which earned it an Editors' Choice award. It borrows its styling, interior design, and powertrain from the Mazda 3 sedan and hatchback, and adds a slightly lifted suspension that gives it an SUV-like feel (albeit barely) from behind the wheel. A 2.5-liter four-cylinder provides adequate power and can be had with either front- or all-wheel drive; a far more powerful turbocharged 2.5-liter is optional and comes standard with all-wheel drive.",
+    "price": "23,225"
+  },
+  {
+    "_id": 6,
+    "name": "2022 Toyota RAV4",
+    "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/2022-toyota-rav4-trd-offroad-003-scaled-1636723552.jpg?crop=0.845xw:0.712xh;0.0753xw,0.149xh&resize=1200:*",
+    "description": "While the 2022 Toyota RAV4 isn't the most entertaining compact SUV from a driver's standpoint, its practicality and efficiency bolster its value. The entry-level model is affordable but very basic, but mid-range trims offer plenty of features that buyers in this segment will appreciate. A 2.5-liter four-cylinder is standard as is an eight-speed automatic and front-wheel drive. All-wheel drive is available, but you won’t see even the most rugged model in the RAV4 lineup sidling up to a 4Runner or a Tacoma at the trailhead.",
+    "price": "28,000"
+  },
+  {
+    "_id": 7,
+    "name": "2022 Mazda CX-5",
+    "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/2022-mazda-cx-5-front-three-quarters-white-2-1631288273.jpg?crop=0.696xw:0.714xh;0,0.122xh&resize=1200:*",
+    "description": "More than any other mainstream compact crossover, the 2022 Mazda CX-5 makes its driver feel special. With a price tag that's much closer to a Honda CR-V’s than a Porsche Macan’s, the Mazda is accessible to the same demographic group as the former, but it's also able to the impress those who fall into the latter's tax bracket. The CX-5's base four-cylinder engine doesn't highlight its dynamic driving personality as well as the optional turbocharged four, ",
+    "price": "28,000"
+  },
+  {
+    "_id": 8,
+    "name": "2023 Honda CR-V",
+    "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/honda-cr-v-005-1629219977.jpg?crop=1.00xw:0.846xh;0,0.0697xh&resize=1200:*",
+    "description": "An all-new generation of the Honda CR-V is in the works, as we can see from spy photos of the redesigned SUV caught testing in Germany. The camouflaged test vehicle sports a cleaner, more modern-looking grille design, black wheels, and new front and rear lighting elements. The 2023 CR-V is expected to be offered with both gasoline and hybrid powertrains but we also think an electric version could be in the mix, possibly for a debut after the upcoming 2024 Prologue SUV electric vehicle comes to market.",
+    "price": "27,000"
+  },
+  {
+    "_id": 9,
+    "name": "2022 Ford Bronco Sport",
+    "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/22-frd-brospt-50790-badlands-area51-1-1636472522.jpg?crop=1.00xw:0.846xh;0,0.0505xh&resize=1200:*",
+    "description": "The 2022 Ford Bronco Sport is one of the better compact crossovers for mixing urban living and outdoorsy weekend adventures. Styled like a baby version of the full-size Ford Bronco—itself is a retro rendition of classic Broncos—the smaller Sport attracts attention. Its truck-like shape pays dividends inside where headroom and cargo space are generous. While the cabin is marred by some unattractive materials, and its back seat isn't very big, the incorporation of useful features such as hidden storage compartments and a slide-out workbench are unique touches.",
+    "price": "28,760"
+  },
+  {
+    "_id": 10,
+    "name": "2022 Volvo XC40",
+    "image": "https://hips.hearstapps.com/hmg-prod/amv-prod-cad-assets/wp-content/uploads/2018/04/2019-Volvo-XC40-104-1.jpg?crop=0.776xw:0.717xh;0.112xw,0.120xh&resize=1200:*",
+    "description": "Among the already fashionable lineup of Volvo SUVs, the even more chic 2022 XC40 is a hip and youthful one. The entry-level model is powered by a 184-hp turbocharged four-cylinder that wears the T4 badge, but the spunkiest version is the T5, which offers 248 horsepower and standard all-wheel drive. The XC40 brings with it plenty of tech, too, including available driver assists that are borrowed from higher-end Volvo models, including the Pilot Assist semi-autonomous driving mode. ",
+    "price": "35,195"
+  }
+]
